@@ -1,6 +1,6 @@
 import React from "react";
 import "../Components/Navbar.css";
-import Logo from "/Users/saefullah/padel-app/src/Padel-app-Assets/Logo.png";
+import Logo from "../src/Padel-app-Assets/Logo.png";
 
 function Navbar() {
   return (

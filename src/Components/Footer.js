@@ -1,8 +1,8 @@
 import React from "react";
-import Insta from "/Users/saefullah/padel-app/src/Padel-app-Assets/Instagram_logo.png";
-import FB from "/Users/saefullah/padel-app/src/Padel-app-Assets/Facebook_logo.png";
-import Twitter from "/Users/saefullah/padel-app/src/Padel-app-Assets/Twitter_logo.png";
-import Logo from "/Users/saefullah/padel-app/src/Padel-app-Assets/Pad'elle-Logo.png";
+import Insta from "/../src/Padel-app-Assets/Instagram_logo.png";
+import FB from "/../src/Padel-app-Assets/Facebook_logo.png";
+import Twitter from "/../src/Padel-app-Assets/Twitter_logo.png";
+import Logo from "/../src/Padel-app-Assets/Pad'elle-Logo.png";
 import "../Components/Footer.css";
 
 function Footer() {
