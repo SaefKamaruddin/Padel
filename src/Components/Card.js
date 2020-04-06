@@ -11,9 +11,9 @@ import {
   CardBody,
 } from "reactstrap";
 
-import Top1 from "/Users/saefullah/padel-app/src/Padel-app-Assets/Top1.png";
-import Top2 from "/Users/saefullah/padel-app/src/Padel-app-Assets/Top2.png";
-import Top3 from "/Users/saefullah/padel-app/src/Padel-app-Assets/Top3.png";
+import Top1 from "../src/Padel-app-Assets/Top1.png";
+import Top2 from "../src/Padel-app-Assets/Top2.png";
+import Top3 from "../src/Padel-app-Assets/Top3.png";
 
 const Card_home = (props) => {
   return (
