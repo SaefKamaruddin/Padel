@@ -1,0 +1,43 @@
+#footerbody {
+  margin-top: 10px;
+  height: 400px;
+}
+.container {
+  display: flex;
+  margin-top: 20px;
+}
+
+.border {
+  height: 5px;
+  width: 100%;
+  background-color: #0a0c24;
+}
+
+.Footer_img {
+  height: 60px;
+  width: 60px;
+  margin-top: 10px;
+}
+
+.Footer_img_Logo {
+  height: 300px;
+  width: 300px;
+}
+
+.left {
+  width: 33%;
+}
+
+.middle {
+  width: 34%;
+}
+
+.right {
+  width: 33%;
+}
+
+.img_container {
+  width: 100px;
+  height: 400px;
+  margin-top: 10px;
+}
