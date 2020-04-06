@@ -6,9 +6,9 @@ import {
   CarouselIndicators,
   CarouselCaption,
 } from "reactstrap";
-import Image1 from "/Users/saefullah/padel-app/src/Padel-app-Assets/Logo_carousel.jpg";
-import Image2 from "/Users/saefullah/padel-app/src/Padel-app-Assets/Carousel_top.png";
-import Image3 from "/Users/saefullah/padel-app/src/Padel-app-Assets/Carousel_skirt.png";
+import Image1 from "../src/Padel-app-Assets/Logo_carousel.jpg";
+import Image2 from "../src/Padel-app-Assets/Carousel_top.png";
+import Image3 from "../src/Padel-app-Assets/Carousel_skirt.png";
 import "../Components/Carousel.css";
 
 const items = [
